@@ -5,5 +5,3 @@ export function Deps() {
 }
 
 export default Deps;
-
-// Build Deps layout and fields
